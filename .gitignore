@@ -1,0 +1,36 @@
+# Ignore executable files
+*.exe
+*.out
+*.app
+
+# Ignore object files and compiled libraries
+*.o
+*.obj
+*.a
+*.lib
+*.dll
+*.so
+
+# Ignore temporary files
+*.log
+*.tmp
+*.temp
+
+# Ignore build directories
+/build/
+/bin/
+/Debug/
+/Release/
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
+
+# Ignore IDE/editor-specific files
+*.vscode/
+*.code-workspace
+*.idea/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
